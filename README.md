@@ -1,6 +1,6 @@
-# Lutador X Samurai Plataforma
+# Lutador Vs Samurai Plataforma
 
-Bem-vindo ao **Fighter X Samurai Platform**! Um jogo de plataforma 2D cheio de ação, criado com o framework Pygame Zero em Python.
+Bem-vindo ao **Lutador Vs Samurai Plataforma**! Um jogo de plataforma 2D cheio de ação, criado com o framework Pygame Zero em Python.
 
 ![Captura de tela 2025-07-04 131543](https://github.com/user-attachments/assets/bd4f7708-c02a-43b7-b62e-cea829d23a3e)
 ![Captura de tela 2025-07-04 131601](https://github.com/user-attachments/assets/be79c902-0f25-4bcb-b114-11a51c69564c)
