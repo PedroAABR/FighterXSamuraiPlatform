@@ -48,7 +48,7 @@ Cuidado! Se um samurai tocar em você 5 vezes, ou se você cair das plataformas,
 
 ## 🛠️ Instalação e Execução
 
-Este jogo foi desenvolvido em Python com a biblioteca Pygame Zero.
+Este jogo foi desenvolvido em Python com a biblioteca PgZero, math, random e Rect do Pygame
 
 ### Pré-requisitos
 
@@ -71,9 +71,8 @@ pip install pygame pgzero
 3.  Execute o jogo com o seguinte comando:
 
 ```bash
-pgzrun nome_do_seu_arquivo.py
+python Jogo.py
 ```
-*(Substitua `nome_do_seu_arquivo.py` pelo nome real do seu script principal)*.
 
 ---
 
@@ -86,4 +85,4 @@ Para que o jogo funcione corretamente, os arquivos de assets (imagens e sons) de
 -   **/music/**: Contém o arquivo da música de fundo `.ogg` ou `.mp3`.
 
 ---
-*Este projeto foi desenvolvido como parte de um processo de aprendizado e exploração da criação de jogos com Python.*
+*Este projeto foi desenvolvido como parte de um processo seletivo, aprendizado e exploração da criação de jogos com Python.*
